@@ -28,7 +28,7 @@ Written in Swift UIKit in programmatically approach with usage of:
 - [Charts by danielghandi](https://github.com/danielgindi/Charts)
 
 
-### Preview
+### Usage
 
 <!---!![](project-image-url)--->
 <!---![GoogleSheets sheet](https://j.gifs.com/QnozZG.gif)--->
